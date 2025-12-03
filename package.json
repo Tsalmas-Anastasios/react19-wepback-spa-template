@@ -45,6 +45,7 @@
         "@mantine/notifications": "^8.3.9",
         "@tabler/icons-react": "^3.35.0",
         "@tailwindplus/elements": "^1.0.19",
+        "axios": "^1.13.2",
         "compression": "^1.8.1",
         "cross-env": "^10.1.0",
         "dotenv": "^17.2.3",
