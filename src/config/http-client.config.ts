@@ -1,4 +1,4 @@
-// src/lib/httpClient.ts
+ // src/config/http-client.config.ts
 import axios, { AxiosInstance } from 'axios';
 
 /**
