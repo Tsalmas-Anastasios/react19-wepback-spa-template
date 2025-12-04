@@ -1,5 +1,7 @@
+import { RoutePath } from './routes';
+
 const App = () => {
-    return <div>app opener is active</div>;
+    return <RoutePath />;
 };
 
 export { App };
